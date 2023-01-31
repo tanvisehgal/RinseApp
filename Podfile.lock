@@ -1,0 +1,22 @@
+PODS:
+  - Appirater (2.3.1)
+  - SDWebImage (5.15.0):
+    - SDWebImage/Core (= 5.15.0)
+  - SDWebImage/Core (5.15.0)
+
+DEPENDENCIES:
+  - Appirater
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Appirater
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Appirater: 44a4651f7912a17dc906b655f0c215d5bb768b84
+  SDWebImage: 9bec4c5cdd9579e1f57104735ee0c37df274d593
+
+PODFILE CHECKSUM: 9ba55697f0154cbd82a830ee28ad4cb310deb6c8
+
+COCOAPODS: 1.11.3
